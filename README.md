@@ -1,3 +1,5 @@
+For safety reasons, /src/util/Yelp.js is not included in this Repo, ask the creator for further information.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
